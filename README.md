@@ -6,7 +6,7 @@
 1. startRunningLoader()
 2. stopRunnerLoading() </h6>
 
-note: Achieved by Auto-layout. Feel free to download and use it. Cheers!
+note: Achieved by auto-layout and written in swift 5. Feel free to download and use it. Cheers!
 
 ![Loader-Runner Demo](runner.gif)
 
